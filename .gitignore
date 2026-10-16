@@ -1,0 +1,11 @@
+node_modules/
+.npm-cache/
+dist/
+bin/
+obj/
+.vs/
+.idea/
+*.user
+.env
+.env.*
+!.env.example
